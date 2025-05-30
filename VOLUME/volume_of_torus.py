@@ -1,4 +1,4 @@
-#Calculate volume of torus 
+#Calculate volume of the torus 
 
 import math
 
