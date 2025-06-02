@@ -1,4 +1,4 @@
-#Calculate volume of the prism
+#Calculate volume of the normal prism
 
 base_area = float(input("Enter the base area of the prism: "))
 height = float(input("Enter the height of the prism: "))
