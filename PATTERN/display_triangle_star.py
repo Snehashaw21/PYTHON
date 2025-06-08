@@ -1,8 +1,8 @@
 #Print triangle star pattern
 #* 
 #* * 
-#*   * 
-#*     * 
+#* * * 
+#* * * * 
 #* * * * * 
 
 rows = 5
