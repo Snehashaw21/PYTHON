@@ -1,6 +1,6 @@
 #Print the table using while loop statement
 
-n=int(input("Enter the number:"))
+n =int(input("Enter the number:"))
 i = 1
 
 while(i<=10):
