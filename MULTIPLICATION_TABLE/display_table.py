@@ -1,4 +1,4 @@
-#Print the table using while loop
+#Print the table using while loop statement
 
 n=int(input("Enter the number:"))
 i = 1
