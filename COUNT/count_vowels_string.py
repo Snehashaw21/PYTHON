@@ -1,7 +1,7 @@
 #write a program count vowels in a string
 
 string = input("Enter a string: ")
-vowels = "aeiouAEIOU"
+vowels ="aeiouAEIOU"
 
 count = 0
 
