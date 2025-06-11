@@ -11,3 +11,6 @@ elif num > 1:
             break
     else:
         print("It is a prime number.")
+else:
+   print("Please enter a positive integer greater than 0.")        
+        
