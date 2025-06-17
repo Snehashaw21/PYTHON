@@ -1,5 +1,4 @@
-#Finbing the greatest number using function
-
+#Finbing the greatest number using function 
 
 def greater():
     if(a>b and a>c):
