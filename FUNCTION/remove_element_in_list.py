@@ -1,4 +1,4 @@
-#Remove word from list using function method
+#Remove word from list using function method:
 
 def rem(list,word):
     for item in list:
