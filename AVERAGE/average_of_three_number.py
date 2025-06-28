@@ -1,4 +1,4 @@
-#Find the average of three number
+#Find the average of three number....
 
 a=int(input("Enter a number :"))
 b=int(input("Enter a number :"))
