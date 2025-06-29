@@ -1,4 +1,4 @@
-#find the factorial of the given number
+#find the factorial of the given number....
 
 num = int(input("Enter the number: "))
 fact = 1
