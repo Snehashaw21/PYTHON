@@ -9,7 +9,6 @@ def is_prime(number):
             return False
     return True
 
-# Check and print prime numbers between 1 and 50
 print("Prime numbers between 1 and 50 are:")
 for num in range(1, 51):
     if is_prime(num):
