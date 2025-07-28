@@ -1,6 +1,6 @@
-# Square of a Number using Function
-# Function to calculate square:
+# Square of a Number using Function:
 
+# Function to calculate square
 
 def find_square(number):
     return number * number
