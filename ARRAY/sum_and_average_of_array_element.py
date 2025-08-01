@@ -1,4 +1,4 @@
-#Calculate the sum and average of array elements:
+#Calculate the sum and average of array  elements:
 
 arr = [10, 20, 30, 40, 50]
 
