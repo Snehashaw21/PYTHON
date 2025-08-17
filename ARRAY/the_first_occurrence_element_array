@@ -1,0 +1,16 @@
+#Find the index of the first occurrence of an element in an array:
+
+def first_occurrence(arr, target):
+    for i in range(len(arr)):
+        if arr[i] == target:
+            return i
+    return -1  # If not found
+
+arr = [10, 20, 30, 20, 40, 50]
+target = 20
+
+result = first_occurrence(arr, target)
+if result != -1:
+    print(f"First occurrence of {target} is at index {result}")
+else:
+    print("Element not found")
