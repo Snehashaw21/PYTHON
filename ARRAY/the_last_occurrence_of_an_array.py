@@ -14,4 +14,4 @@ result = last_occurrence(arr, target)
 if result != -1:
     print(f"Last occurrence of {target} is at index {result}")
 else:
-    print("Element not found")
+    print("Element not found") 
