@@ -1,6 +1,6 @@
 #Merge two arrays into one:
 
-def merge_arrays(a, b):
+def merge_arrays(a, b): 
     return a + b
 
 arr1 = [1, 2, 3]
