@@ -2,7 +2,7 @@
 
 def sum_even_index(arr):
     total = 0
-    for i in range(0, len(arr), 2):  # step = 2 → even indexes only
+    for i in range(0, len(arr), 2): 
         total += arr[i]
     return total
 
