@@ -1,7 +1,7 @@
 #Check if the array is a palindrome:
 
 def is_palindrome(arr):
-    n = len(arr)
+    n = len(arr) 
     for i in range(n // 2):
         if arr[i] != arr[n - i - 1]:
             return False
