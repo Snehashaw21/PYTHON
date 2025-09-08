@@ -1,7 +1,7 @@
 #Find the third largest element in an array:
 
 def third_largest(arr):
-    arr = list(set(arr))  # remove duplicates
+    arr = list(set(arr))  
     if len(arr) < 3:
         return "Array does not have 3 distinct elements"
     arr.sort()
