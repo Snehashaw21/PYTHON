@@ -1,7 +1,7 @@
 #Count how many elements appear only once in the array:
 
 def count_unique(arr):
-    freq = {}
+    freq = {} 
     for num in arr:
         freq[num] = freq.get(num, 0) + 1
     count = 0
