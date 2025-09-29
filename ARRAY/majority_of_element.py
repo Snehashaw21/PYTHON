@@ -1,6 +1,6 @@
 #Find the majority element (element that appears more than n/2 times):
 
-def element(arr):
+def element(arr): 
     n = len(arr)
     freq = {}
 
