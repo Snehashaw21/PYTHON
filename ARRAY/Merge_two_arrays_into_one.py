@@ -1,4 +1,4 @@
-#Merge two arrays into one:...
+#Merge two arrays into one:
 
 def merge_arrays(a, b): 
     return a + b
