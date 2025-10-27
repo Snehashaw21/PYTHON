@@ -1,4 +1,4 @@
-#Separate even and odd numbers into two different arrays:
+#Separate even and odd numbers into two different arrays: 
 
 def separate_even_odd(arr):
     even = []
