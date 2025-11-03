@@ -7,7 +7,7 @@ def is_descending(arr):
     return True
 
 arr1 = [9, 7, 5, 3, 1]
-arr2 = [10, 20, 15, 5]
+arr2 = [10, 20, 15, 5] 
 
 print("Array 1 descending:", is_descending(arr1))
 print("Array 2 descending:", is_descending(arr2))
