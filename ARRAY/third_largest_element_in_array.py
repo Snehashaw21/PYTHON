@@ -1,6 +1,6 @@
 #Find the third largest element in an array:
 
-def third_largest(arr):
+def third_largest(arr): 
     arr = list(set(arr))  # remove duplicates
     arr.sort()
     if len(arr) < 3:
