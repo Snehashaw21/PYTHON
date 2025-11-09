@@ -1,4 +1,4 @@
-#Swap the first and last element of an array.
+#Swap the first and last element of an array:
 
 def swap_first_last(arr):
     if len(arr) > 1:   # Check array has at least 2 elements
