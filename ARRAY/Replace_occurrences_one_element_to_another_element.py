@@ -2,7 +2,7 @@
 
 def replace_all(arr, old, new):
     for i in range(len(arr)):
-        if arr[i] == old:
+        if arr[i] == old: 
             arr[i] = new
     return arr 
 
